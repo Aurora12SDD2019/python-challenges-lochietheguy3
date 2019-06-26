@@ -1,0 +1,6 @@
+name = input("what is your name? ")
+print("so your name is " + name)
+age = input("so " + name + (" how old are you? "))
+age = int(age)
+futureAge = (100 - age)
+print("you will be 100 in " + str(futureAge) + " years")
