@@ -13,4 +13,5 @@ As you complete a task, add your solution to this repository as a python file an
 Date | Task    
 ------------ | ------------
 25/6/19 | character input
-
+----------|-------------
+26/6/19 | odd or even
